@@ -1,6 +1,6 @@
+![Web-Development](https://media.licdn.com/dms/image/D5616AQHkBdnGG7M_NA/profile-displaybackgroundimage-shrink_350_1400/0/1718329919927?e=1723680000&v=beta&t=j7x4fvUy2WZNGEaKpo2314Ee8_kta3gPyag6H1oG6aE)
 ### Hi there 👋, I'm Mahin Jaman
 #### Web-Development
-![Web-Development](https://media.licdn.com/dms/image/D5616AQHkBdnGG7M_NA/profile-displaybackgroundimage-shrink_350_1400/0/1718329919927?e=1723680000&v=beta&t=j7x4fvUy2WZNGEaKpo2314Ee8_kta3gPyag6H1oG6aE)
 
 👋 Hi, I'm Mahin Jaman, a passionate web developer with a strong foundation in front-end and back-end technologies. I specialize in building dynamic and responsive web applications using the latest technologies and best practices.
 

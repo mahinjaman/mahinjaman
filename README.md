@@ -6,8 +6,7 @@
 
 Skills: HTML / CSS / JS /  REACT / NODE.JS / EXPRESS.JS / MONGODB
 
-- 🔭 I’m currently working on DetectiveSEO 
-- 🌱 I’m currently learning Next.js 
+- 🔭 I’m currently working on DetectiveSEO  
 - 👯 I’m looking to collaborate on Git-Hub 
 - 💬 Ask me about Web-Development 
 

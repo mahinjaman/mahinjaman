@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Mahin Jaman, a passionate web developer with a strong foundation in front-end and back-end technologies. I specialize in building dynamic and responsive web applications using the latest technologies and best practices.
 
-Skills: HTML / CSS / JS /  REACT / NODE.JS / EXPRESS.JS / MONGODB
+Skills: HTML / CSS / JS /  REACT /NEXT.JS / NODE.JS / EXPRESS.JS / MONGODB
 
 - 🔭 I’m currently working on DetectiveSEO  
 - 👯 I’m looking to collaborate on Git-Hub 
